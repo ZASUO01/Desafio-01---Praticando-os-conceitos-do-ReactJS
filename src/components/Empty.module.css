@@ -1,0 +1,19 @@
+.empty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 4rem 1.5rem;
+}
+
+.empty img{
+    height: 3.5rem;
+}
+
+.empty strong{
+    margin-top: 1rem;
+}
+
+.empty strong, p {
+    font-size: 1rem;
+} 
